@@ -78,4 +78,11 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 export LANG=ja_JP.UTF-8
 
-alias subl="'/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl'"
+alias subl="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+
+export GIT_EDITOR=vim
+export VISUAL=vim
+export EDITOR=vim
+
+alias git=hub
+

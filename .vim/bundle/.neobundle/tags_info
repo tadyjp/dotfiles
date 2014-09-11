@@ -1,0 +1,16 @@
+AnsiEsc.vim
+VimClojure
+neobundle.vim
+neocomplcache
+neomru.vim
+neosnippet
+neosnippet-snippets
+nerdtree
+syntastic
+tcomment_vim
+unite.vim
+vim-endwise
+vim-indent-guides
+vim-slime
+vimproc
+vimshell
